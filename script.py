@@ -2,6 +2,7 @@ from mainMenu import MenuPesanan
 
 food1 = MenuPesanan("Kupat", 10000)
 food2 = MenuPesanan("Bakso", 15000)
+food3 = MenuPesanan("Tahu", 2000)
 
 # List foods
 foods = [food1, food2]
